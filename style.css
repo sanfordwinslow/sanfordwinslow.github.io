@@ -9,7 +9,7 @@
 body {
     font-size:100%;
     font-family:'source_sans_proregular';
-    background-image:url(../images/sunset.jpg);
+    background-color:grey;
     background-attachment: scroll;
     background-size: cover;
     background-repeat: no-repeat;
