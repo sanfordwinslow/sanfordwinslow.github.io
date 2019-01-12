@@ -16,7 +16,6 @@ body {
 }
 
 #wrapper {
-    /*width:940px;*/
     width:78%;
     max-width:1100px;
     margin:0 auto 20px auto;
@@ -27,9 +26,8 @@ body {
 
 }
 
-header {
+header h1.center {
     margin:20px auto 0 auto;
-   /* width:940px;*/
     width:78%;
     max-width:1100px;
     background:#fff;
@@ -49,6 +47,16 @@ main {
 p {
     margin-bottom:20px;
     line-height: 1.5;
+}
+
+p.background {
+    background:lightblue;
+    padding:10px;
+    font-size: 1.463em;
+    font-family: 'source_sans_proitalic';
+    line-height: 1.2;
+    font-style:italic;
+    margin-top:20px;
 }
 
 aside {
