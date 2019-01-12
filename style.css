@@ -26,3 +26,27 @@ body {
     overflow:hidden;
 
 }
+
+header {
+    margin:20px auto 0 auto;
+   /* width:940px;*/
+    width:78%;
+    max-width:1100px;
+    background:#fff;
+    background:rgba(255, 255, 255, .8);
+
+}
+
+main {
+    /*width:600px;*/
+    width:63.82%;
+    float:left;
+    padding-right:10px;
+    margin-bottom: 20px;
+
+}
+
+p {
+    margin-bottom:20px;
+    line-height: 1.5;
+}
