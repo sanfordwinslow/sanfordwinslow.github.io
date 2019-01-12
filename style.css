@@ -6,6 +6,15 @@
   box-sizing: border-box;
 }
 
+body {
+    font-size:100%;
+    font-family:'source_sans_proregular';
+    background-image:url(../images/sunset.jpg);
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 #wrapper {
     /*width:940px;*/
     width:78%;
