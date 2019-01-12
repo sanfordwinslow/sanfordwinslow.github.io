@@ -50,3 +50,13 @@ p {
     margin-bottom:20px;
     line-height: 1.5;
 }
+
+aside {
+    border:1px solid #666;
+    padding:15px;
+    /*width:300px;*/
+    width:31.91%;
+    float:right;
+    margin-bottom:20px;
+    
+}
