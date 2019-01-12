@@ -26,13 +26,21 @@ body {
 
 }
 
-header h1.center {
+header {
     margin:20px auto 0 auto;
     width:78%;
     max-width:1100px;
     background:#fff;
     background:rgba(255, 255, 255, .8);
 
+}
+
+header h1.center {
+    margin:0 2.12% auto 42.55%;
+    font-style:italic;
+    font-family:'source_sans_proitalic';
+    line-height:50px;
+    padding-top:40px;
 }
 
 main {
