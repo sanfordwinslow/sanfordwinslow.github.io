@@ -36,7 +36,7 @@ header {
 }
 
 header h1.center {
-    margin:0 2.12% auto 30%;
+    margin:0 2.12% auto 20%;
     font-style:italic;
     font-family:'source_sans_proitalic';
     line-height:50px;
@@ -76,6 +76,7 @@ aside {
     width:31.91%;
     float:right;
     margin-bottom:20px;
+    background-color:#136,190,241;
 
 
 }
