@@ -1,5 +1,5 @@
 function dateTime(){
-  var currentdate = new Date(); 
+  // var currentdate = new Date(); 
   var datetime = "Last Sync: " + currentdate.getDate() + "/"
                 + (currentdate.getMonth()+1)  + "/" 
                 + currentdate.getFullYear() + " @ "  
