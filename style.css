@@ -57,6 +57,7 @@ p {
     line-height: 1.5;
 }
 
+
 p.background {
     background:lightblue;
     padding:10px;
@@ -67,6 +68,7 @@ p.background {
     margin-top:20px;
 }
 
+
 aside {
     border:1px solid #666;
     padding:15px;
@@ -74,14 +76,14 @@ aside {
     width:31.91%;
     float:right;
     margin-bottom:20px;
-    
+
+
 }
 
 aside img {
     width:300px;
-    
+
 }
 
 button {
   margin:0 auto 20px auto;
-}
