@@ -81,3 +81,8 @@ aside img {
     width:300px;
     
 }
+
+button {
+  position:fixed;
+  margin:0 auto 20px auto;
+}
