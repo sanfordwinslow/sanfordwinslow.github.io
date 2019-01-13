@@ -36,7 +36,7 @@ header {
 }
 
 header h1.center {
-    margin:0 2.12% auto auto;
+    margin:0 2.12% auto 30%;
     font-style:italic;
     font-family:'source_sans_proitalic';
     line-height:50px;
@@ -81,7 +81,7 @@ aside {
 }
 
 aside img {
-    width:40.43%;
+    width:100%;
 
 }
 
